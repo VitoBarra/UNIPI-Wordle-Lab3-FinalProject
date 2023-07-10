@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="VitoBarra.JavaUtil">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil" />
+      <root url="jar://$PROJECT_DIR$/../VitoBarra.JavaUtil/out/artifacts/VitoBarra_JavaUtil_jar/VitoBarra.JavaUtil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil/Data/src" />
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil/DesignPatternHelper/src" />
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil/IO/src" />
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil/Other/src" />
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil/ServerHelper/src" />
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil/String/src" />
+      <root url="file://$PROJECT_DIR$/../VitoBarra.JavaUtil/Time/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SwitchableDataSource">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SwitchableDataSource/out/artifacts/SwitchableDataSource_jar/SwitchableDataSource.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../SwitchableDataSource/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

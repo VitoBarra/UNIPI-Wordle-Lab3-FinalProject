@@ -1,0 +1,1 @@
+[{"User_Filename":"User.json","GamesRecords_Filename":"GamesRecords.json","Vocabulary_Filename":"words.txt","WordleGame_Filename":"WordleGame.json","WelcomePort":3838,"MultiCastGroup":"230.36.37.30","MulticastPort":5000,"NewGameAfterMinutes":5,"MaxTry":12,"WelcomeTimeoutSeconds":15}]
